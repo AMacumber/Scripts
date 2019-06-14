@@ -6,3 +6,7 @@ A collection of python scripts. Tutorials, examples and resources.
 
 ## List of Scripts
 * Comprehensions
+
+## List of Tutorials (Datasets)
+* Tutorial_TimeSeries_Dataquest (opsd_germany_daily.csv) ; basic time series
+* Tutorial_TimeSeries_Forecasting (CEPEA_20190613145727.xls)
