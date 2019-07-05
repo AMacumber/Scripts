@@ -12,6 +12,8 @@ A collection of python scripts. Tutorials, examples and resources.
 * Visuals: Correlogram
 
 ## List of **R** scripts
+* Databases: Create Tables MySQL
+* Databases: Load Data from MySQL
 * Micropaleontology: Probably and Standard Error (samples and species)
 * Micropaleontology: Species Richness and Diversity
 
