@@ -2,12 +2,13 @@
 
 ## Description
 
-A collection of python scripts. Tutorials, examples and resources.
+Useful bits of code (R and Python)
 
 ## List of **Python** Scripts
 * Comprehensions
 * Data: Open & Wrangle
 * Merge Multiple CSV
+* MySQL: Select Data and Create Python Dataframe
 * Transformations: Boxcox
 * Visuals: Correlogram
 
