@@ -9,6 +9,7 @@ Useful bits of code (R and Python)
 * Data: Open & Wrangle
 * Merge Multiple CSV
 * MySQL: Select Data and Create Python Dataframe
+* MySQL: Save a pandas dataframe to (local) mySQL database
 * Transformations: Boxcox
 * Visuals: Correlogram
 
