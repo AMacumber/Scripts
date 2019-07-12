@@ -15,6 +15,7 @@ Useful bits of code (R and Python)
 
 ## List of **R** scripts
 * Databases: Create Tables MySQL
+* Databases: Databases ; Jupyter Lab Notebook for saving tables to mySQL
 * Databases: Load Data from MySQL
 * Micropaleontology: Probably and Standard Error (samples and species)
 * Micropaleontology: Species Richness and Diversity
