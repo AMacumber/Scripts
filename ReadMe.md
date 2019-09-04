@@ -2,23 +2,24 @@
 
 ## Description
 
-Useful bits of code (R and Python)
+Useful bits of code (Python, R and SAS)
 
 ## List of **Python** Scripts
 * Comprehensions
 * Data: Open & Wrangle
 * Merge Multiple CSV
-* MySQL: Select Data and Create Python Dataframe
-* MySQL: Save a pandas dataframe to (local) mySQL database
+* MySQL: Load and Save data to / from local mySQL database
 * Transformations: Boxcox
-* Visuals: Correlogram
+* Visual: Correlogram
 
 ## List of **R** scripts
-* Databases: Create Tables MySQL
 * Databases: Databases ; Jupyter Lab Notebook for saving tables to mySQL
-* Databases: Load Data from MySQL
 * Micropaleontology: Probably and Standard Error (samples and species)
 * Micropaleontology: Species Richness and Diversity
+* Visual: Standard biplot
+
+## List of **SAS** Scripts
+* Deleting Files: remove temporary files that reduce resources
 
 ## List of Tutorials (Datasets)
 * Tutorial_TimeSeries_Dataquest (opsd_germany_daily.csv) ; basic time series
