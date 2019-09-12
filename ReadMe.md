@@ -7,6 +7,7 @@ Useful bits of code (Python, R and SAS)
 ## List of **Python** Scripts
 * Comprehensions
 * Data: Open & Wrangle
+* DefaultDict: Counting and KeyLists
 * Merge Multiple CSV
 * MySQL: Load and Save data to / from local mySQL database
 * Transformations: Boxcox
