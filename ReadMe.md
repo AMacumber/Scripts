@@ -2,7 +2,7 @@
 
 ## Description
 
-Useful bits of code (Python, R and SAS)
+Useful bits of code (Python, PySpark, R and SAS)
 
 ## List of **Python** Scripts
 * Comprehensions
@@ -12,6 +12,10 @@ Useful bits of code (Python, R and SAS)
 * MySQL: Load and Save data to / from local mySQL database
 * Transformations: Boxcox
 * Visual: Correlogram
+
+## List of **PySpark** Scripts
+* RDDs: working with RDDs
+* Setup: establish spark connection, open a file.
 
 ## List of **R** scripts
 * Databases: Databases ; Jupyter Lab Notebook for saving tables to mySQL
