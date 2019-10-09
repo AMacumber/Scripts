@@ -6,6 +6,7 @@ Useful bits of code (Python, PySpark, R and SAS)
 
 ## List of **Python** Scripts
 * Comprehensions
+* Data: Open Various File Formats
 * Data: Open & Wrangle
 * DefaultDict: Counting and KeyLists
 * Merge Multiple CSV
