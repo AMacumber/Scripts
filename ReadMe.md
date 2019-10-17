@@ -6,12 +6,15 @@ Useful bits of code (Python, PySpark, R and SAS)
 
 ## List of **Python** Scripts
 * Comprehensions
-* Data: Open Various File Formats
-* Data: Open & Wrangle
+* Data: Open local files
+* Data: Open web files
+* Data: Wrangle
+* Dictionaries
 * DefaultDict: Counting and KeyLists
 * Merge Multiple CSV
 * MySQL: Load and Save data to / from local mySQL database
 * Transformations: Boxcox
+* Visual: Basic visuals
 * Visual: Correlogram
 
 ## List of **PySpark** Scripts
