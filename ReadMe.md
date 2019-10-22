@@ -11,11 +11,13 @@ Useful bits of code (Python, PySpark, R and SAS)
 * Data: Wrangle
 * Dictionaries
 * DefaultDict: Counting and KeyLists
+* F Strings
 * Merge Multiple CSV
 * MySQL: Load and Save data to / from local mySQL database
 * Transformations: Boxcox
 * Visual: Basic visuals
 * Visual: Correlogram
+* Wikipedia API
 
 ## List of **PySpark** Scripts
 * RDDs: working with RDDs
