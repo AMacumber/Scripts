@@ -33,5 +33,6 @@ Useful bits of code (Python, PySpark, R and SAS)
 * Deleting Files: remove temporary files that reduce resources
 
 ## List of Tutorials (Datasets)
+* HackerStats_Distributions ; working through Data Camp material
 * Tutorial_TimeSeries_Dataquest (opsd_germany_daily.csv) ; basic time series
 * Tutorial_TimeSeries_Forecasting (CEPEA_20190613145727.xls)
