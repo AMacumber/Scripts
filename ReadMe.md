@@ -4,6 +4,9 @@
 
 Useful bits of code (Python, PySpark, R and SAS)
 
+## List of Python **Functions**
+* Function_time_per : run a method on a list
+
 ## List of **Python** Scripts
 * Comprehensions
 * Data: Open local files
@@ -14,9 +17,11 @@ Useful bits of code (Python, PySpark, R and SAS)
 * F Strings
 * Merge Multiple CSV
 * MySQL: Load and Save data to / from local mySQL database
+* Time: how to measure how long things take
 * Transformations: Boxcox
 * Visual: Basic visuals
-* Visual: Correlogram
+* Visual_Correlogram
+* WebScraping
 * Wikipedia API
 
 ## List of **PySpark** Scripts
@@ -33,6 +38,7 @@ Useful bits of code (Python, PySpark, R and SAS)
 * Deleting Files: remove temporary files that reduce resources
 
 ## List of Tutorials (Datasets)
+* Apache Spark
 * HackerStats_Distributions ; working through Data Camp material
-* Tutorial_TimeSeries_Dataquest (opsd_germany_daily.csv) ; basic time series
-* Tutorial_TimeSeries_Forecasting (CEPEA_20190613145727.xls)
+* TimeSeries_Dataquest (opsd_germany_daily.csv) ; basic time series
+* TimeSeries_Forecasting (CEPEA_20190613145727.xls)
