@@ -5,6 +5,7 @@
 Useful bits of code (Python, PySpark, R and SAS)
 
 ## List of Python **Functions**
+* Function_column_details: given a dataframe return column info
 * Function_time_per : run a method on a list
 
 ## List of **Python** Scripts
