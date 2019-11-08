@@ -9,21 +9,28 @@ Useful bits of code (Python, PySpark, R and SAS)
 * Function_time_per : run a method on a list
 
 ## List of **Python** Scripts
-* Comprehensions
+* Analysis: K-Means Clustering
+* Basics: Comprehensions
+* Basics: DefaultDict: Counting and KeyLists
+* Basics: Dictionaries
+* Basics: F Strings
+* Data: Merge Multiple CSV
 * Data: Open local files
 * Data: Open web files
+* Data: WebScraping
+* Data: Wikipedia API
 * Data: Wrangle
-* Dictionaries
-* DefaultDict: Counting and KeyLists
-* F Strings
-* Merge Multiple CSV
+* Eval: Classification Models
+* ML: Gradient Boosting
 * MySQL: Load and Save data to / from local mySQL database
 * Time: how to measure how long things take
-* Transformations: Boxcox
+* Transform: Boxcox
+* Transform: Label Encoding
+* Transform: Train Test Set Splitting
 * Visual: Basic visuals
-* Visual_Correlogram
-* WebScraping
-* Wikipedia API
+* Visual: Correlogram
+* Visual: Subplots
+
 
 ## List of **PySpark** Scripts
 * RDDs: working with RDDs
