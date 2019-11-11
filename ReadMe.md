@@ -40,6 +40,7 @@ Useful bits of code (Python, PySpark, R and SAS)
 * Databases: Databases ; Jupyter Lab Notebook for saving tables to mySQL
 * Micropaleontology: Probably and Standard Error (samples and species)
 * Micropaleontology: Species Richness and Diversity
+* Pipelines
 * Visual: Standard biplot
 
 ## List of **SAS** Scripts
