@@ -23,6 +23,7 @@ Useful bits of code (Python, PySpark, R and SAS)
 * Eval: Classification Models
 * ML: Gradient Boosting
 * MySQL: Load and Save data to / from local mySQL database
+* Pipeline: Example of an Extract Transform Load Pipeline
 * Process: Using Dask for Parallel Processing
 * Time: how to measure how long things take
 * Transform: Boxcox
