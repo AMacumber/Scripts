@@ -6,6 +6,7 @@ Useful bits of code (Python, PySpark, R and SAS)
 
 ## List of Python **Functions**
 * Function_column_details: given a dataframe return column info
+* imbalanced_feaures: returns list of columns with value counts > threshold (i.e., one level dominates)
 * Function_time_per : run a method on a list
 
 ## List of **Python** Scripts
