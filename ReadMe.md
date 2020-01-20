@@ -15,6 +15,7 @@ Useful bits of code (Python, PySpark, R and SAS)
 * Basics: DefaultDict: Counting and KeyLists
 * Basics: Dictionaries
 * Basics: F Strings
+* Data: Exploratory Data Analysis
 * Data: Merge Multiple CSV
 * Data: Open local files
 * Data: Open web files
@@ -23,6 +24,7 @@ Useful bits of code (Python, PySpark, R and SAS)
 * Data: Wrangle
 * Eval: Classification Models
 * ML: Gradient Boosting
+* ML: K-Nearest Neighbors
 * MySQL: Load and Save data to / from local mySQL database
 * Pipeline: Example of an Extract Transform Load Pipeline
 * Process: Using Dask for Parallel Processing
