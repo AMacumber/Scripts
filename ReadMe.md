@@ -24,6 +24,7 @@ Useful bits of code (Python, PySpark, R and SAS)
 * Data: Wrangle
 * Eval: Classification Models
 * ML: Gradient Boosting
+* ML: Linear Regression
 * ML: K-Nearest Neighbors
 * MySQL: Load and Save data to / from local mySQL database
 * Pipeline: Example of an Extract Transform Load Pipeline
@@ -34,6 +35,7 @@ Useful bits of code (Python, PySpark, R and SAS)
 * Transform: Train Test Set Splitting
 * Visual: Basic visuals
 * Visual: Correlogram
+* Visual: Heatmap
 * Visual: Subplots
 
 
