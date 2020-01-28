@@ -24,8 +24,10 @@ Useful bits of code (Python, PySpark, R and SAS)
 * Data: Wrangle
 * Eval: Classification Models
 * ML: Gradient Boosting
+* ML: Lasso Regression
 * ML: Linear Regression
 * ML: K-Nearest Neighbors
+* ML: Ridge Regression
 * MySQL: Load and Save data to / from local mySQL database
 * Pipeline: Example of an Extract Transform Load Pipeline
 * Process: Using Dask for Parallel Processing
