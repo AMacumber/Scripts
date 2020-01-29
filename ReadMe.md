@@ -26,6 +26,7 @@ Useful bits of code (Python, PySpark, R and SAS)
 * ML: Gradient Boosting
 * ML: Lasso Regression
 * ML: Linear Regression
+* ML: Logistic Regression
 * ML: K-Nearest Neighbors
 * ML: Ridge Regression
 * MySQL: Load and Save data to / from local mySQL database
